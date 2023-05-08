@@ -1,0 +1,6 @@
+/.rasa
+/models
+/ngrok.exe
+/tests
+/credentials.yml
+actions/__pycache__
